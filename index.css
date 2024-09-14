@@ -1,0 +1,38 @@
+
+
+#container{
+    width: 400px;
+    margin: auto;  
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+input{
+    padding: 10px;
+    width: 100px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+button{
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: hsl(0, 90%, 45%);
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+#displayPass{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(14, 133, 39);
+}
